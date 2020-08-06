@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Портфолио студентки Логиновой Софья
 
-You can use the [editor on GitHub](https://github.com/sonyadk/python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
++ Мои профессиональные компитенции:
+  - Adobe Photoshop;
+  - Python;
+  - C/C++;
+  - HTML/CSS;
+  - Pascal ABC.
+ 
+ [Ссылка на REPL с решением задачи "Нахождение площади треугольника по формуле Герона"](https://repl.it/@sonyadk/isr13 "Ссылочка на задание")
+ 
+ Первая строка кода позваляет импортировать математические функции из библиотеки ```math```:
+ ```python
+from math import *
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sonyadk/python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Далее оборачиваем конструкцию ```input()``` для ввода пользователем данныв в ```int```, которое позволяет преобразовать входящие данные в тип данных ```int```:
+ ```python
+a = int(input("Введите a: "))
+b = int(input("Введите b: "))
+c = int(input("Введите c: "))
+```
+Также необходимо осуществить проверку введенных условий, чтобы подсчет площади был верным:
+```python
+if a+b<=c or a+c<=b or c+b<=a:
+```
+Если значения введены неверно и выполняется блок ```if```, то пользователь увидит следующее сообщение:
+```python
+print("Значения введены неверно!")
+```
+Если же конструкция ```if``` оказалась ложной - выполняется блок действий ```else```, внутри которого считается и выводится площадь треугольника: 
+```python
+else:
+  p = (a + b + c)/2
+  s = round(sqrt(p*(p-a)*(p-b)*(p-c)), 5)
+  print("Результат вычислений равен ", s)
+```
++ _Лучшей мотивацией для меня служит сон. Почему?_
+  - _чем быстрее все сделаешь - тем быстрее ляжешь спать_
+  - _чем лучше сделаешь - тем спокойнее сон_
+  - _чем меньше делать - тем больше ты можешь поспать_
+  
+ ![Дин](https://i.redd.it/8vraoncnwzy11.jpg)
