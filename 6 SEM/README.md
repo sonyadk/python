@@ -58,4 +58,4 @@
 
 **Лабораторные работы:**
 
-1. 
+1. [ЛР 3-4. Титаник и анализ данных](https://github.com/sonyadk/python/tree/gh-pages/6%20SEM/lr3)
