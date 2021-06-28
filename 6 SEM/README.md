@@ -58,4 +58,5 @@
 
 **Лабораторные работы:**
 
-1. [ЛР 3-4. Титаник и анализ данных](https://github.com/sonyadk/python/tree/gh-pages/6%20SEM/lr3)
+1. [ЛР 3-4. Титаник и анализ данных.](https://github.com/sonyadk/python/tree/gh-pages/6%20SEM/lr3)
+2. [ЛР 7. Леса, лассо и выборки.](https://colab.research.google.com/drive/1xSFOiglIWGpDJ1TCU2rBJ-26RVyyxgdx#scrollTo=Xju8ZGXDx1h5)
