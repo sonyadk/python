@@ -30,3 +30,4 @@
 
 1. [ЛР 3-4. Титаник и анализ данных.](https://github.com/sonyadk/python/tree/gh-pages/6%20SEM/lr3)
 2. [ЛР 7. Леса, лассо и выборки.](https://colab.research.google.com/drive/1xSFOiglIWGpDJ1TCU2rBJ-26RVyyxgdx#scrollTo=Xju8ZGXDx1h5)
+3. [ЛР 8. Предсказание дефолта по кредиту.](https://colab.research.google.com/drive/18rvWMq1rem7qWQ-Z9bUFHyX0biCXiXug#scrollTo=YvwRP4EoG4Wz)
