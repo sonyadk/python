@@ -41,5 +41,5 @@
 **Лабораторные работы:**
 
 1. [ЛР 1. Написать функцию squareSequenceDigit(), где решалась бы следующая задача. Найти n-ю цифру последовательности из квадратов целых чисел: 149162536496481100121144... Например, 2-я цифра равна 4, 7-я 5, 12-я 6. Использовать операции со строками в этой задаче запрещается.](https://github.com/sonyadk/python/blob/gh-pages/5%20SEM/lr1_squareSequenceDigit.py)
-2. [ЛР 2. Доступ к погоде по AOI.](https://github.com/sonyadk/python/blob/gh-pages/5%20SEM/lr2_API.py)
+2. [ЛР 2. Доступ к погоде по API.](https://github.com/sonyadk/python/blob/gh-pages/5%20SEM/lr2_API.py)
 3. [ЛР 4. Разработка чата.](https://github.com/sonyadk/python/tree/gh-pages/5%20SEM/lr4_iterchat)
