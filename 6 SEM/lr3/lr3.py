@@ -1,5 +1,5 @@
 """
-Ссылка для запуска: https://replit.com/@sonyadk/lr1#main.py
+Ссылка для запуска: https://replit.com/@sonyadk/lr3#main.py
 """
 import pandas  # импортирование библиотеки для считывания данных
 
