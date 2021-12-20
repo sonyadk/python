@@ -6,5 +6,5 @@
 4. [Лабораторная работа №4](https://github.com/sonyadk/python/tree/gh-pages/7%20SEM/lr4)
 5. [Лабораторная работа №5](https://colab.research.google.com/drive/1CevxINil5JM-Fo8IJPZqdJwc-HPPSCN3?usp=sharing) 
 6. [Лабораторная работа №6](https://colab.research.google.com/drive/1kpP7q2l346PIIox-HYDMaqTXg4jTZZOy?usp=sharing) 
-7. [Лабораторная работа №7]()
-8. [Лабораторная работа №8]()  
+7. [Лабораторная работа №7](https://github.com/sonyadk/python/tree/gh-pages/7%20SEM/lr7)
+8. [Лабораторная работа №8](https://github.com/sonyadk/python/tree/gh-pages/7%20SEM/lr8)  
