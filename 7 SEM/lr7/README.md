@@ -10,3 +10,12 @@
 ![скрин](../lr7/screenshot/screen3.png)
 После того, как мы написали код в двух файлах urls.py в папках mysite и polls, перехождим по адресу http://localhost:8000/polls/ и наслаждаемся любимым hello, world 
 ![скрин](../lr7/screenshot/screen4.png)
+#### Урок 2
+Второй этап обучения. Редактируем файлы polls/models.py и mysite/settings.py.
+![скрин](../lr7/screenshot/screen5.png) ![скрин](../lr7/screenshot/screen6.png)
+
+Далее вызываем команду ```makemigrations``` сообщая Django, что мы внесли некоторые изменения в модели (в данном случае, создали новые) и что мы хотели бы сохранить эти изменения в виде миграции:
+![скрин](../lr7/screenshot/screen7.png)
+
+Команда ```sqlmigrate``` принимает имена миграций и возвращает их SQL:
+![скрин](../lr7/screenshot/screen8.png)
