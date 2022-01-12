@@ -23,6 +23,6 @@ https://dev-gang.ru/article/naczalo-raboty-s-docker-i-django-73cvl13n55/
 
 Теперь попробуем собрать пакет с помощью python setup.py sdist (запуск изнутри django-polls). Это создаст каталог dist и соберет новый пакет, django-polls-0.1.tar.gz.
 
-![скрин](../lr8/screenshots/screen30.jpg)
+![скрин](../lr8/screenshot/screen30.jpg)
 
 Все!
